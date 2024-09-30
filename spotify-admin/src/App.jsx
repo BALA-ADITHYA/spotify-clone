@@ -9,7 +9,7 @@ import ListAlbum from './Pages/ListAlbum';
 import SideBar from './Components/SideBar';
 import NavBar from './Components/NavBar';
 
- export const url = 'http://localhost:4000'
+ export const url = 'https://bala-onlinemusic-backend-indh-rek.onrender.com'
 
 const App = () => {
   return (
